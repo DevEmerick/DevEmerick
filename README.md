@@ -1,4 +1,0 @@
-- 👋 Hi, I’m Guilherme Emerick.
-- 👀 I’m passionate about building applications and websites, always looking to learn as much as possible about technology.
-- 🌱 I’m constantly studying programming, and I love bringing ideas to life through modern and interactive web experiences.
-- 🚀 You can check out my live projects at https://emerick.dev.
